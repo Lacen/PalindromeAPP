@@ -1,0 +1,16 @@
+*{
+    padding: 0%;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+#text-input {
+    margin-top: 50px;
+    margin-left: 50px;;
+
+}
+#main-header{
+    margin-top: 200px;
+    text-align: center;
+}
